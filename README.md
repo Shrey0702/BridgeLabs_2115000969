@@ -1,9 +1,9 @@
-##19-jan-2025 -- completed assignment 1
-#Learning - 
-*#learnt how to:
-*take inputs and printing outputs,
-*how to use inbuilt Math functions, 
-*how to explcitly typecast variables
+19-jan-2025 -- completed assignment 1
+Learning - 
+learnt how to:
+take inputs and printing outputs,
+how to use inbuilt Math functions, 
+how to explcitly typecast variables
 
 
 ##20-01-2025
@@ -20,4 +20,5 @@
 *Different types of access modifiers in C#
 *Constructors
 *Static and Not static methods and constructors
+
 
