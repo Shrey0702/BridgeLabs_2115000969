@@ -22,5 +22,21 @@ how to explcitly typecast variables
 *Static and Not static methods and constructors
 
 22-01-2025-submitted assignment 2
+learned about explicit typecasting, flow control statements like if-else
+else if, continue break statement and practiced basic problems on these like
+chocolate distribution, average percentage, earth volume and other programs
 
 23-01-2025- submitted assignment 3
+learned basics of for loop, while loop solved basic problems on these topics
+made programs like calculator, factorial of a number, natural number
+
+24-01-2025
+learned how to ue switch case, operators precedence, 
+how to view insights in github and check graph of our reposotory, method access
+modifiers
+
+25-01-2025 - submitted assignment
+learned concepts of for loop, while loop how to use Console.Error.WriteLine()
+Environment.Exit();, solved basic to complex problems on these topics like 
+BMI calculator, checking number, employee bonus and other programs
+to implement the concepts learned
