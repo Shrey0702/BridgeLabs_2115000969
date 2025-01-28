@@ -40,3 +40,6 @@ learned concepts of for loop, while loop how to use Console.Error.WriteLine()
 Environment.Exit();, solved basic to complex problems on these topics like 
 BMI calculator, checking number, employee bonus and other programs
 to implement the concepts learned
+
+28-01-2025 - submitted assignment
+kearned about methods and recursion how to implement recursion, use 2D arrays in complex problems and solved 36+ assignment problems
