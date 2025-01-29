@@ -42,4 +42,11 @@ BMI calculator, checking number, employee bonus and other programs
 to implement the concepts learned
 
 28-01-2025 - submitted assignment
-kearned about methods and recursion how to implement recursion, use 2D arrays in complex problems and solved 36+ assignment problems
+learned about methods and recursion how to implement recursion, use 2D arrays in complex problems and solved 36+ assignment problems
+
+29-01-2025 - submitted assignment
+Learned about strings
+used arrays with strings
+solved problems on strings like - lexicographic, reverse, anagram etc
+learned how to explicitly convert char to int
+
