@@ -50,3 +50,8 @@ used arrays with strings
 solved problems on strings like - lexicographic, reverse, anagram etc
 learned how to explicitly convert char to int
 
+31-01-2025 - submitted assignment
+learned about built in methods of DateAndTime, Off set, other Math. functions
+OOPS concepts like encapsulation, inheritance, getters/setters, classes and objects 
+how to use contructors to initialize the variables of a class 
+
