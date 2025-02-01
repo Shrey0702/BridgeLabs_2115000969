@@ -55,3 +55,11 @@ learned about built in methods of DateAndTime, Off set, other Math. functions
 OOPS concepts like encapsulation, inheritance, getters/setters, classes and objects 
 how to use contructors to initialize the variables of a class 
 
+01-02-2025
+Learnings-
+	different constructors- copy, private, static/non static construcutors
+	parameterized/non parameterized constrcutors
+	instance variables and methods
+	class variable and methods
+	chaining of constrcutors
+	
