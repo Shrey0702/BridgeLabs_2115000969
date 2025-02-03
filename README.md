@@ -63,3 +63,11 @@ Learnings-
 	class variable and methods
 	chaining of constrcutors
 	
+## 02-02-2025
+* submitted assignment 02-02-2025
+### Learning
+* Recursion concepts like - base condition, defination, basic defination
+* Classes and objects
+* Solved problems based on classes and objects 
+* learned how to use dedicated IDEs for C#
+
