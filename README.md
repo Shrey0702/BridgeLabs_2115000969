@@ -71,3 +71,11 @@ Learnings-
 * Solved problems based on classes and objects 
 * learned how to use dedicated IDEs for C#
 
+## 03-02-2025
+### Learning
+* practiced basic recursion questions
+* did string manipulation problem
+* OOPS concepts-
+* Encapsulation, Abstraction, Inheritannce, Polymosphism
+* is a relation
+* interfaces and abstract classes
