@@ -79,3 +79,10 @@ Learnings-
 * Encapsulation, Abstraction, Inheritannce, Polymosphism
 * is a relation
 * interfaces and abstract classes
+
+## 04-02-2025
+* submitted assignment 04-02-2025
+### Learning
+* learned and implemented oops concepts to complete assignment problems
+* used is keyword to validate the object is it's valid
+
