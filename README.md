@@ -86,3 +86,9 @@ Learnings-
 * learned and implemented oops concepts to complete assignment problems
 * used is keyword to validate the object is it's valid
 
+## 04-02-2025
+### Learnings
+* submitted some OOPS assignment questions
+* learned about IS-A HAS-A relation and it's type
+* learned about garbage collection
+
