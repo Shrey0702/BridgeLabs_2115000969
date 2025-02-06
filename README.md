@@ -92,3 +92,10 @@ Learnings-
 * learned about IS-A HAS-A relation and it's type
 * learned about garbage collection
 
+## 06-02-2025
+### Learnings
+* association
+* aggregation
+* composition 
+* IS-A HAS-A relation
+* data diagrams
