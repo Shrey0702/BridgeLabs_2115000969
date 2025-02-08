@@ -99,3 +99,8 @@ Learnings-
 * composition 
 * IS-A HAS-A relation
 * data diagrams
+
+### 08-02-2025
+* submitted assignment 08-02-2025
+* learned about inheritance and it's types like
+single level, multilevel, hybrid inheritance
