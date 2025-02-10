@@ -100,7 +100,14 @@ Learnings-
 * IS-A HAS-A relation
 * data diagrams
 
-### 08-02-2025
+## 08-02-2025
 * submitted assignment 08-02-2025
 * learned about inheritance and it's types like
 single level, multilevel, hybrid inheritance
+
+
+## 10-02-2025
+* submitted assignment 10-02-2025
+* implemented OOPS concepts on various problems
+* learned about explicit interface method calls
+
