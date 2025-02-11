@@ -111,3 +111,7 @@ single level, multilevel, hybrid inheritance
 * implemented OOPS concepts on various problems
 * learned about explicit interface method calls
 
+## 11-02-2025
+* learned about singly and doubly linked list
+* created singly linked list and doubly linkedlist
+* implemented methods for interacting with list
