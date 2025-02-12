@@ -115,3 +115,9 @@ single level, multilevel, hybrid inheritance
 * learned about singly and doubly linked list
 * created singly linked list and doubly linkedlist
 * implemented methods for interacting with list
+
+## 12-02-2025
+* learned about sorting a linked list
+* implementing linked list for various fields of implementation
+* how to implement a circular linked list
+* how to implement a doubly linked list
