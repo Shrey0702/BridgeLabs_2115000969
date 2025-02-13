@@ -121,3 +121,10 @@ single level, multilevel, hybrid inheritance
 * implementing linked list for various fields of implementation
 * how to implement a circular linked list
 * how to implement a doubly linked list
+
+
+## 13-02-2025
+* learned about stack, queues and hashmaps
+* learned about inbulit functions of all the topics mentioned
+* implemented stacks and queues for solving various problems
+* learned about how to reverse a linked list
