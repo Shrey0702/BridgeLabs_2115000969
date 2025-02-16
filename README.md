@@ -128,3 +128,11 @@ single level, multilevel, hybrid inheritance
 * learned about inbulit functions of all the topics mentioned
 * implemented stacks and queues for solving various problems
 * learned about how to reverse a linked list
+
+## 16-02-2025
+* submitted assignment
+* learned about file handling
+* how to use stream reader and stream writer
+* implemented string builder for creating mutable strings
+* learned binary search
+* learned linear search and implemented them to solve various problems
