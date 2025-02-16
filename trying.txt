@@ -1,0 +1,4 @@
+hello this is a sample file which i'll be using
+for testing and implementing
+streamReader 
+and it's function
