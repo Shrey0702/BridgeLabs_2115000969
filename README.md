@@ -136,3 +136,12 @@ single level, multilevel, hybrid inheritance
 * implemented string builder for creating mutable strings
 * learned binary search
 * learned linear search and implemented them to solve various problems
+
+## 17-02-2025
+* submitted assignment 17-02-2025
+* learned about stopwatch 
+* learned about big oh notation
+* learned about best/worst/average case complexity
+* compared time complexity of string concatenation, different searching and sorting algorithms
+* read about filestream
+
