@@ -145,3 +145,7 @@ single level, multilevel, hybrid inheritance
 * compared time complexity of string concatenation, different searching and sorting algorithms
 * read about filestream
 
+## 18-02-2025
+* submitted assignment 18-02-2025
+* learned about generics 
+* how to use generics on a class interface or methods
