@@ -149,3 +149,11 @@ single level, multilevel, hybrid inheritance
 * submitted assignment 18-02-2025
 * learned about generics 
 * how to use generics on a class interface or methods
+
+## 19-02-2025
+* submitted assignment 19-02-2025
+* learned about gnnerics in detail
+* solved problems on how to use binary sreach for other problems
+* what is the use case of generics
+* revised concepts of sorting algorithms like counting, selection, insertion sort
+
