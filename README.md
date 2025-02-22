@@ -162,8 +162,14 @@ single level, multilevel, hybrid inheritance
 * file stream, object stream, bufffer stream
 * stream reader, stream writer
 
-# 21-02-2025
+## 21-02-2025
 * learned about exception handling
 * different kind of exceptions in
 * learned how to throw exceptions
 * learned to apply multiple exceptions
+
+## 22-02-2025
+* learned about NUint 
+* learned how to use NUinit
+* learned about regex
+* used regex to solve variour problems
