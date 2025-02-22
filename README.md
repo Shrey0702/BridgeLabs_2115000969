@@ -157,3 +157,13 @@ single level, multilevel, hybrid inheritance
 * what is the use case of generics
 * revised concepts of sorting algorithms like counting, selection, insertion sort
 
+## 20-02-2025
+* learned about streams in C#
+* file stream, object stream, bufffer stream
+* stream reader, stream writer
+
+# 21-02-2025
+* learned about exception handling
+* different kind of exceptions in
+* learned how to throw exceptions
+* learned to apply multiple exceptions
