@@ -173,3 +173,9 @@ single level, multilevel, hybrid inheritance
 * learned how to use NUinit
 * learned about regex
 * used regex to solve variour problems
+
+## 24-02-2025
+* learned about reflection
+* how to use reflection for getting info and manipulation
+* annotations and how to use it for fields, methods, class, and properties
+* JSON
