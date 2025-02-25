@@ -179,3 +179,8 @@ single level, multilevel, hybrid inheritance
 * how to use reflection for getting info and manipulation
 * annotations and how to use it for fields, methods, class, and properties
 * JSON
+
+## 25-02-2025
+* learned about advance reflections like proxy classes
+* learned how to use reflection in annotations
+* lerned how to handle CSV and JSON
