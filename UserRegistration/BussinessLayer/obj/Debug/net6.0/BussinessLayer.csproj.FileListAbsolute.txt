@@ -1,0 +1,15 @@
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\BussinessLayer\bin\Debug\net6.0\BussinessLayer.deps.json
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\BussinessLayer\bin\Debug\net6.0\BussinessLayer.dll
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\BussinessLayer\bin\Debug\net6.0\BussinessLayer.pdb
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\BussinessLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\BussinessLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\BussinessLayer\obj\Debug\net6.0\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\BussinessLayer\obj\Debug\net6.0\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\BussinessLayer\obj\Debug\net6.0\BussinessLayer.AssemblyInfo.cs
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.CopyComplete
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\BussinessLayer\obj\Debug\net6.0\BussinessLayer.dll
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\BussinessLayer\obj\Debug\net6.0\refint\BussinessLayer.dll
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\BussinessLayer\obj\Debug\net6.0\BussinessLayer.pdb
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\BussinessLayer\obj\Debug\net6.0\ref\BussinessLayer.dll

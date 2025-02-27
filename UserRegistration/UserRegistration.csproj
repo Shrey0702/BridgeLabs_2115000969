@@ -1,0 +1,53 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="BussinessLayer\**" />
+      <Compile Remove="UserRegistrationRL\**" />
+      <Compile Remove="RepositoryLayer\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="BussinessLayer\**" />
+      <EmbeddedResource Remove="UserRegistrationRL\**" />
+      <EmbeddedResource Remove="RepositoryLayer\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Remove="BussinessLayer\**" />
+      <Content Remove="UserRegistrationRL\**" />
+      <Content Remove="RepositoryLayer\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="BussinessLayer\**" />
+      <None Remove="UserRegistrationRL\**" />
+      <None Remove="RepositoryLayer\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="BussinessLayer\obj\BussinessLayer.csproj.nuget.dgspec.json" />
+      <_ContentIncludedByDefault Remove="BussinessLayer\obj\project.assets.json" />
+      <_ContentIncludedByDefault Remove="BussinessLayer\obj\project.packagespec.json" />
+      <_ContentIncludedByDefault Remove="UserRegistrationRL\obj\project.assets.json" />
+      <_ContentIncludedByDefault Remove="UserRegistrationRL\obj\project.packagespec.json" />
+      <_ContentIncludedByDefault Remove="UserRegistrationRL\obj\UserRegistrationRL.csproj.nuget.dgspec.json" />
+      <_ContentIncludedByDefault Remove="RepositoryLayer\obj\project.assets.json" />
+      <_ContentIncludedByDefault Remove="RepositoryLayer\obj\project.packagespec.json" />
+      <_ContentIncludedByDefault Remove="RepositoryLayer\obj\RepositoryLayer.csproj.nuget.dgspec.json" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="BussinessLayer\BussinessLayer.csproj" />
+    </ItemGroup>
+
+</Project>
