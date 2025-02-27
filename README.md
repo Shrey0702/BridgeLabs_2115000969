@@ -189,3 +189,10 @@ single level, multilevel, hybrid inheritance
 * learned about advanced annotation and attributes
 * learned how to create and use custom annotations
 * learned how to utilise reflection in annotations
+
+## 27-02-2025
+* learned how to create dotnet web API
+* learned how to implement 3 tier architecture using BussinessLayer and Repository Layer
+* learned how to add References of a class
+* learned about controllers and other api requests
+* learned how to send get requests to the web page
