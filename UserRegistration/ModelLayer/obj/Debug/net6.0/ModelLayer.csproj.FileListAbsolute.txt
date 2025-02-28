@@ -1,0 +1,12 @@
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\ModelLayer\bin\Debug\net6.0\ModelLayer.deps.json
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\ModelLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\ModelLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.AssemblyReference.cache
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\ModelLayer\obj\Debug\net6.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfoInputs.cache
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfo.cs
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\ModelLayer\obj\Debug\net6.0\ModelLayer.dll
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
+C:\Users\Shrey\OneDrive\Desktop\CAPEGEMINI training BRIDGE LABS\practice and assignments\Assignment 27-02-2025\UserRegistration\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll
