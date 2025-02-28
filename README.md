@@ -196,3 +196,9 @@ single level, multilevel, hybrid inheritance
 * learned how to add References of a class
 * learned about controllers and other api requests
 * learned how to send get requests to the web page
+
+## 28-02-2025
+* learned how to use modellayer
+* learned about [ROUTE]
+* learned how to post request
+* learned how to use POSTMAN to test APIS
