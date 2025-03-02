@@ -202,3 +202,10 @@ single level, multilevel, hybrid inheritance
 * learned about [ROUTE]
 * learned how to post request
 * learned how to use POSTMAN to test APIS
+
+
+## 02-03-2025
+* learned abput ILogger and how to use this to log error and messages
+* learned how to implement try catch to handle exception in different layers of our project
+* learned about different layers and it's functionality
+
