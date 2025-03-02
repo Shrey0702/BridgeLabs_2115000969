@@ -1,0 +1,17 @@
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\obj\Debug\net6.0\Reposito.A0A61804.Up2Date
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+C:\Users\Shrey\OneDrive\Desktop\WEB APPSSSSSSS\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
