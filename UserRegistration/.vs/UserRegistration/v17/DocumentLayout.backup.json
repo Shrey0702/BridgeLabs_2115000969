@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\UserRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{388142DD-A22C-48E9-ACBC-A8A5077BD39D}|UserRegistration.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\userregistration\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388142DD-A22C-48E9-ACBC-A8A5077BD39D}|UserRegistration.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79293AEE-E47E-41A6-BDFE-FFBC44A827E5}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\repositorylayer\\service\\userregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC28ADA-A7C1-4D51-8A43-82B0239C35AC}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\businesslayer\\service\\userregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC28ADA-A7C1-4D51-8A43-82B0239C35AC}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\businesslayer\\interface\\iuserregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79293AEE-E47E-41A6-BDFE-FFBC44A827E5}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\repositorylayer\\interface\\iuserregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0607B78F-C68D-42C3-BADE-4CD72C69FF2D}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\modellayer\\dto\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79293AEE-E47E-41A6-BDFE-FFBC44A827E5}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\repositorylayer\\context\\registrationappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79293AEE-E47E-41A6-BDFE-FFBC44A827E5}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\repositorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0607B78F-C68D-42C3-BADE-4CD72C69FF2D}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\modellayer\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0607B78F-C68D-42C3-BADE-4CD72C69FF2D}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\modellayer\\dto\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388142DD-A22C-48E9-ACBC-A8A5077BD39D}|UserRegistration.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\userregistration\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388142DD-A22C-48E9-ACBC-A8A5077BD39D}|UserRegistration.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388142DD-A22C-48E9-ACBC-A8A5077BD39D}|UserRegistration.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\userregistration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{388142DD-A22C-48E9-ACBC-A8A5077BD39D}|UserRegistration.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388142DD-A22C-48E9-ACBC-A8A5077BD39D}|UserRegistration.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\userregistration\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{388142DD-A22C-48E9-ACBC-A8A5077BD39D}|UserRegistration.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79293AEE-E47E-41A6-BDFE-FFBC44A827E5}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\repositorylayer\\migrations\\20250301180641_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79293AEE-E47E-41A6-BDFE-FFBC44A827E5}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\repositorylayer\\migrations\\20250301180641_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC28ADA-A7C1-4D51-8A43-82B0239C35AC}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388142DD-A22C-48E9-ACBC-A8A5077BD39D}|UserRegistration.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\userregistration\\userregistration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{388142DD-A22C-48E9-ACBC-A8A5077BD39D}|UserRegistration.csproj|solutionrelative:userregistration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79293AEE-E47E-41A6-BDFE-FFBC44A827E5}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\shrey\\onedrive\\desktop\\web appsssssss\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\ModelLayer\\DTO\\RegistrationDTO.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\RegistrationDTO.cs",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\ModelLayer\\DTO\\RegistrationDTO.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\RegistrationDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:37:01.784Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRegistrationBL.cs",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\BusinessLayer\\Interface\\IUserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Interface\\IUserRegistrationBL.cs",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\BusinessLayer\\Interface\\IUserRegistrationBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Interface\\IUserRegistrationBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:11:21.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistrationBL.cs",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Service\\UserRegistrationBL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:30:10.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegistrationRL.cs",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\UserRegistrationRL.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwF8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:35:01.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRegistrationRL.cs",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\RepositoryLayer\\Interface\\IUserRegistrationRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interface\\IUserRegistrationRL.cs",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\RepositoryLayer\\Interface\\IUserRegistrationRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Interface\\IUserRegistrationRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:35:10.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\UserRegistration\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserRegistrationController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:25:49.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrationAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\RepositoryLayer\\Context\\RegistrationAppContext.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Context\\RegistrationAppContext.cs",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\RepositoryLayer\\Context\\RegistrationAppContext.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Context\\RegistrationAppContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:47:45.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:49:01.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:52:34.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\ModelLayer\\DTO\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\ModelLayer\\DTO\\LoginResponse.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:58:13.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\UserRegistration\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\UserRegistration\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:07:21.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\UserRegistration\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\UserRegistration\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T17:57:36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\UserRegistration\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\UserRegistration\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T18:09:31.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250301180641_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\RepositoryLayer\\Migrations\\20250301180641_InitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Migrations\\20250301180641_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\RepositoryLayer\\Migrations\\20250301180641_InitialMigration.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Migrations\\20250301180641_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:06:41.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250301180641_InitialMigration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\RepositoryLayer\\Migrations\\20250301180641_InitialMigration.Designer.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Migrations\\20250301180641_InitialMigration.Designer.cs",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\RepositoryLayer\\Migrations\\20250301180641_InitialMigration.Designer.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Migrations\\20250301180641_InitialMigration.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:05:28.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T17:29:10.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RepositoryLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T17:47:10.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRegistration.csproj",
+              "DocumentMoniker": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\UserRegistration\\UserRegistration.csproj",
+              "RelativeDocumentMoniker": "UserRegistration.csproj",
+              "ToolTip": "C:\\Users\\Shrey\\OneDrive\\Desktop\\WEB APPSSSSSSS\\UserRegistration\\UserRegistration.csproj",
+              "RelativeToolTip": "UserRegistration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T17:55:15.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
