@@ -209,3 +209,7 @@ single level, multilevel, hybrid inheritance
 * learned how to implement try catch to handle exception in different layers of our project
 * learned about different layers and it's functionality
 
+## 03-03-2025
+* started a new project named Greeting App
+* implements all HTTP methods 
+
