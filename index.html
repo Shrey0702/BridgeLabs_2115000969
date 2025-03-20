@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    * {
+      box-sizing: border-box; 
+    }
+    body {
+      display: flex;
+      min-height: 100vh;
+      flex-direction: column;
+      margin: 0;
+    }
+    header{
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        height: 100px;
+        background-color: #F6F3EB;
+    }
+    header img{
+        height: 100px;
+    }
+    #main {
+      display: flex;
+      flex: 1;
+    }
+    #main > article {
+      flex: 1;
+      order: 1;
+    }
+    #main > nav, 
+    #main > aside {
+      flex: 0 0 20vw;
+    }
+    #main > nav {
+      background: #39892b;
+      order: 3;
+    }
+    #main > aside {
+      background: rgb(143, 220, 128);
+      order: 2;
+    }
+    header, footer, article, nav, aside {
+      padding: 1em;
+    }
+    footer{
+        display: flex;
+    }
+    .cards {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction: row;
+    /* height: 20px; */
+    }
+  .cards img {
+    margin: 10px;
+    border: 3px solid #000;
+    box-shadow: 3px 3px 8px 0px rgba(0,0,0,0.3); 
+    max-width: 23vw;
+    height: 100px;
+  }
+  #cards2{
+    background-color: #d2e9a4;
+}
+.card {
+    flex: 0 0 200px;
+    margin: 10px;
+    background-color: #39892b;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+  } 
+  .card .text {
+    padding: 0 20px 20px;
+  }
+  .card .text > button {
+    background: gray;
+    border: 0;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    }
+    .media {
+    display: flex;
+    align-items: flex-start;
+    background: #F6F3EB;
+    padding: 1em;
+    border-radius: 3px;
+    max-width: 24em;
+    border: 1px solid black;
+  }
+  .media-object {
+    margin-right: 1em;
+    height: 80px;
+  }
+  .media-body {
+    flex: 1;
+  }
+  .media-heading {
+    margin: 0 0 .5em;
+  }
+  </style>
+  <body>
+    <header>
+        <h1>BridgeLabz</h1>
+        <img src="/assets/BL_logo_square_jpg.jpg" alt="">
+    </header>
+    <div id="main">
+        <main class="cards" id="cards2">
+            <img src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+            <img src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+            <img src="/assets/fav.png" alt="Sample photo">
+            <img src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+            <img src="/assets/fav.png" alt="Sample photo">
+            <img src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+            <img src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+            <img src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+            <img src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+            <img src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+            <img src="/assets/fav.png" alt="Sample photo">
+            <img src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+            <img src="/assets/fav.png" alt="Sample photo">
+            <img src="/assets/fav.png" alt="Sample photo">
+            <img src="/assets/fav.png" alt="Sample photo">
+          </main>
+          <main class="cards">
+            <article class="card">
+              <img src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+              <div class="text">
+                <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. At, ex?</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque, nesciunt.</p>
+                <button>Here's why</button>
+              </div>
+            </article>
+            <article class="card">
+              <img src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+              <div class="text">
+                <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. At, ex?</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque, nesciunt.</p>
+                <button>Here's why</button>
+              </div>
+            </article>
+            <article class="card">
+              <img src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+              <div class="text">
+                <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. At, ex?</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque, nesciunt.</p>
+                <button>Here's why</button>
+              </div>
+            </article>
+            <article class="card">
+              <img src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+              <div class="text">
+                <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. At, ex?</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque, nesciunt.</p>
+                <button>Here's why</button>
+              </div>
+            </article>
+            <article class="card">
+              <img src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+              <div class="text">
+                <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. At, ex?</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque, nesciunt.</p>
+                <button>Here's why</button>
+              </div>
+            </article>
+            <article class="card">
+              <img src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+              <div class="text">
+                <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. At, ex?</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque, nesciunt.</p>
+                <button>Here's why</button>
+              </div>
+            </article>
+          </main>
+      <aside>
+        <h2>Home</h2>
+        <h2>About</h2>
+        <h2>Contact Us</h2>
+        <h2>Login</h2>
+        <h2>Services</h2>
+      </aside>
+    </div>
+    <footer>
+        <div class="media">
+            <img class="media-object" src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+            <div class="media-body">
+              <h3 class="media-heading">BridgeLabz</h3>
+              <p>BridgeLabz is an AWS recognised incubator and is solely focussed on solving tech employability. Over the last 7 years, it has worked with 1000+ top tech companies including Yatra, Capgemini, LafargeHolcim, JDA, UrbanLadder, Fullerton India, and RBL bank. Over 10000+ engineers have been placed from Bridgelabz.</p>
+          
+              <div class="media">
+                <img class="media-object" src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+                <div class="media-body">
+                  <h3 class="media-heading">BridgeLabz</h3>
+                  <p>BridgeLabz is also the employability partner for ETCS 5.0 ( Economic Times Campus Stars) program which is connected to over 5000+ engineering colleges in India.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        <div class="media">
+            <img class="media-object" src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+            <div class="media-body">
+              <h3 class="media-heading">BridgeLabz</h3>
+              <p>BridgeLabz is an AWS recognised incubator and is solely focussed on solving tech employability. Over the last 7 years, it has worked with 1000+ top tech companies including Yatra, Capgemini, LafargeHolcim, JDA, UrbanLadder, Fullerton India, and RBL bank. Over 10000+ engineers have been placed from Bridgelabz.</p>
+          
+              <div class="media">
+                <img class="media-object" src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+                <div class="media-body">
+                  <h3 class="media-heading">BridgeLabz</h3>
+                  <p>BridgeLabz is also the employability partner for ETCS 5.0 ( Economic Times Campus Stars) program which is connected to over 5000+ engineering colleges in India.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        <div class="media">
+            <img class="media-object" src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+            <div class="media-body">
+              <h3 class="media-heading">BridgeLabz</h3>
+              <p>BridgeLabz is an AWS recognised incubator and is solely focussed on solving tech employability. Over the last 7 years, it has worked with 1000+ top tech companies including Yatra, Capgemini, LafargeHolcim, JDA, UrbanLadder, Fullerton India, and RBL bank. Over 10000+ engineers have been placed from Bridgelabz.</p>
+          
+              <div class="media">
+                <img class="media-object" src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+                <div class="media-body">
+                  <h3 class="media-heading">BridgeLabz</h3>
+                  <p>BridgeLabz is also the employability partner for ETCS 5.0 ( Economic Times Campus Stars) program which is connected to over 5000+ engineering colleges in India.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        <div class="media">
+            <img class="media-object" src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+            <div class="media-body">
+              <h3 class="media-heading">BridgeLabz</h3>
+              <p>BridgeLabz is an AWS recognised incubator and is solely focussed on solving tech employability. Over the last 7 years, it has worked with 1000+ top tech companies including Yatra, Capgemini, LafargeHolcim, JDA, UrbanLadder, Fullerton India, and RBL bank. Over 10000+ engineers have been placed from Bridgelabz.</p>
+          
+              <div class="media">
+                <img class="media-object" src="/assets/BL_logo_square_jpg.jpg" alt="Sample photo">
+                <div class="media-body">
+                  <h3 class="media-heading">BridgeLabz</h3>
+                  <p>BridgeLabz is also the employability partner for ETCS 5.0 ( Economic Times Campus Stars) program which is connected to over 5000+ engineering colleges in India.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+    </footer>
+  </body>
+</html>
